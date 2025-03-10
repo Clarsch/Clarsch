@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 My name is Christian, and I am computer scientist from Aarhus University, Denmark. <br/>
 I have worked as an Android Developer with big public systems, and are now interested in focusing on both mobile and backend projects.  
