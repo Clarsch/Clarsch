@@ -1,9 +1,22 @@
 
 
 My name is Christian, and I am computer scientist from Aarhus University, Denmark. <br/>
-I have worked as an Android Developer with big public systems, and are now interested in focusing on both mobile and backend projects.  
+Now I followed my dream and settled down in Rome. 
+
+I have experience working with:
+- big public critical systems in high stake environments
+- private solutions handling large amounts of trafic
+- logistic systems
+- highly complex requirements
+- private fullstack projects
+- Android Native Developer 
+
+
+
 
 <!--    - 🔭 I’m currently working on ... -->
+<!--
+
 - 🌱 I’m currently learning
   
   <img src="https://github.com/user-attachments/assets/8bd201f7-56f9-43e5-80ed-96be5ae10c01" alt="drawing" height="50"/>
@@ -21,8 +34,6 @@ I have worked as an Android Developer with big public systems, and are now inter
 
 
 
-
-<!--
 **Clarsch/Clarsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
